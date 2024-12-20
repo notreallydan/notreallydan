@@ -1,3 +1,3 @@
 ## hello, i'm dan
 
-this is my respository for personal works
+mostly just fumbling around in the dark
